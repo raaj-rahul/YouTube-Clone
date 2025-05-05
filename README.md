@@ -7,7 +7,7 @@ This is a full-stack YouTube clone project named **`rest-express`**, built using
 ## 📦 Project Structure
 
 youtube/
-├── client/ # Frontend (likely using React + Vite)
+├── client/ # Frontend (using React + Vite)
 ├── server/ # Backend (Express + TypeScript)
 ├── shared/ # Shared code between frontend & backend
 ├── attached_assets/ # Project-related media/assets
