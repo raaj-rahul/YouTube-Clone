@@ -83,7 +83,7 @@ Use the Drizzle CLI to push schema changes:
 
 npm run db:push
 📸 Assets
-Put screenshots and design references in attached_assets/.
+![image](https://github.com/user-attachments/assets/7a28c210-adfe-4e13-b440-895b234b2aae)
 
 🧾 License
 This project is licensed under the MIT License.
