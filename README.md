@@ -53,8 +53,38 @@ npm install
 📌 Available Scripts
 Command	Description
 npm run dev	Starts development server
+
 npm run build	Builds the app for production
+
 npm run start	Runs the app in production mode
+
 npm run check	Runs TypeScript type checks
+
 npm run db:push	Pushes DB schema changes using Drizzle ORM
+
+🌐 Running the App
+Start the dev server:
+
+t
+npm run dev
+Make sure your environment variables and DB are configured correctly.
+
+⚙️ Environment Configuration
+Create a .env file:
+
+env
+
+PORT=5000
+DATABASE_URL=your_database_url
+NODE_ENV=development
+🧰 Database
+Use the Drizzle CLI to push schema changes:
+
+
+npm run db:push
+📸 Assets
+Put screenshots and design references in attached_assets/.
+
+🧾 License
+This project is licensed under the MIT License.
 
