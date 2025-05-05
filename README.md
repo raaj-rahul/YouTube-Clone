@@ -49,4 +49,12 @@ youtube/
 git clone https://github.com/your-username/youtube-clone.git
 cd youtube
 npm install
+```
+📌 Available Scripts
+Command	Description
+npm run dev	Starts development server
+npm run build	Builds the app for production
+npm run start	Runs the app in production mode
+npm run check	Runs TypeScript type checks
+npm run db:push	Pushes DB schema changes using Drizzle ORM
 
