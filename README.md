@@ -19,3 +19,34 @@ youtube/
 ├── theme.json # Design/theme file
 ├── package.json # Project metadata and scripts
 └── .gitignore
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React (assumed), Vite, Tailwind CSS
+- **Backend**: Node.js, Express, TypeScript
+- **ORM**: Drizzle ORM
+- **Build Tools**: Vite, esbuild
+- **Styling**: Tailwind CSS, PostCSS
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v20.12.2 recommended)
+- npm (v10+)
+- Drizzle CLI (for DB operations)
+
+---
+
+## 📥 Installation
+
+```bash
+git clone https://github.com/your-username/youtube-clone.git
+cd youtube
+npm install
+
